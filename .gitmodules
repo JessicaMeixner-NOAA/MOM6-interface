@@ -3,4 +3,4 @@
 	url = git@github.com:JessicaMeixner-NOAA/MOM6.git
 [submodule "src/mkmf"]
 	path = src/mkmf
-	url = git@github.com:JessicaMeixner-NOAA/mkmf.git
+	url = https://github.com/NOAA-EMC/mkmf
