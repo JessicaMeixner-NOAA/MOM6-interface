@@ -6,4 +6,4 @@
 build
 exec
 MOM6_INSTALL
-
+mom6.mk.install
