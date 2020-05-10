@@ -1,7 +1,7 @@
 [submodule "src/MOM6"]
 	path = src/MOM6
 	url = git@github.com:JessicaMeixner-NOAA/MOM6.git
-        branch = cplwav2ocn
+        branch = PR/cplwav2ocn
 [submodule "src/mkmf"]
 	path = src/mkmf
 	url = https://github.com/NOAA-EMC/mkmf
